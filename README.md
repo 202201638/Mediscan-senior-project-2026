@@ -210,7 +210,3 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 > 💬 *MediScan AI combines medical imaging and artificial intelligence to support healthcare professionals with faster, more accurate pneumonia diagnosis.*
 
-
-
-Would you like me to **personalize this README** (e.g., add your name/team names, project logo, or repository badges like “Built with Flask”, “Deployed on AWS”)? I can make it look like a polished GitHub page.
-```
