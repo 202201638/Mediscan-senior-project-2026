@@ -1,6 +1,6 @@
 
 
-# 🩺 MediScan AI – Smart Pneumonia Diagnosis System
+# 🩺 MediScan AI – Smart Pneumonia Diagnosis System 🩺
 
 MediScan AI is an intelligent web and mobile application designed to assist healthcare professionals in detecting pneumonia from chest X-ray images using **Artificial Intelligence (AI)**.  
 It provides **automated diagnosis**, **confidence scoring**, and **visual explanations** through heatmaps, enabling faster and more reliable medical decisions.
@@ -208,5 +208,5 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ---
 
-> 💬 *MediScan AI combines medical imaging and artificial intelligence to support healthcare professionals with faster, more accurate pneumonia diagnosis.*
+## 💬 MediScan AI combines medical imaging and artificial intelligence to support healthcare professionals with faster, more accurate pneumonia diagnosis.
 
